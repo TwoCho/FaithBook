@@ -1,5 +1,5 @@
 // headers for C
-#include <stdio.h> // hi surin
+#include <stdio.h>
 #include <unistd.h>
 #include <string.h>
 #include <stdlib.h>
